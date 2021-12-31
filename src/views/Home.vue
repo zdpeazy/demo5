@@ -1,5 +1,7 @@
 <template>
   <div class="home">
+    <div>jira-3。4</div>
+    <div>jira-3。2</div>
     <div>jira-3。2</div>
     <div>jira-3。1</div>
     <div>jira-3</div>
