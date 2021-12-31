@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <div>jira-2.1</div>
     <div>jira-2</div>
     <div>jira-1</div>
     <img class="logo" alt="Vue logo" src="../assets/logo.png">
