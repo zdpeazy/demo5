@@ -1,0 +1,29 @@
+{
+  "name": "demo5",
+  "version": "1.0.0",
+  "description": "fa",
+  "private": true,
+  "scripts": {
+    "serve": "star serve",
+    "build:test": "star build --env test",
+    "build:stage": "star build --env stage",
+    "build:prod": "star build --env prod"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "md5-js": "0.0.3",
+    "qs": "^6.10.2",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "mockjs": "^1.1.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
